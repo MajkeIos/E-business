@@ -1,0 +1,8 @@
+version: '3.3'
+
+services:
+  helloworld:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: e-business-helloworld
