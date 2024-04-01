@@ -1,2 +1,2 @@
-# E-businness
+# E-business
 Repository for e-business lab
