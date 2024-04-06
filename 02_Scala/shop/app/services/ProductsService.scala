@@ -4,8 +4,8 @@ import models.Product
 
 object ProductsService {
   private var products: Seq[Product] = Seq(
-    Product(1, "Sample Product 1", "This is a sample product description 1", 9.99),
-    Product(2, "Sample Product 2", "This is a sample product description 2", 19.99)
+    Product(1, "Sample Product 1", "This is a sample product description 1", 9.99, List(CategoriesService.findById(1).get)),
+    Product(2, "Sample Product 2", "This is a sample product description 2", 19.99, List(CategoriesService.findById(2).get)),
   )
 
   def findAll: Seq[Product] = products

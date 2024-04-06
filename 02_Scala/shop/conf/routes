@@ -1,7 +1,20 @@
 GET     /                       controllers.HomeController.healthcheck()
 GET     /healthcheck            controllers.HomeController.healthcheck()
+# Products
 GET     /v1/products            controllers.ProductsController.listProducts
 GET     /v1/products/:id        controllers.ProductsController.getProduct(id: Long)
 POST    /v1/products            controllers.ProductsController.createProduct
 PUT     /v1/products/:id        controllers.ProductsController.updateProduct(id: Long)
 DELETE  /v1/products/:id        controllers.ProductsController.deleteProduct(id: Long)
+# Categories
+GET     /v1/categories          controllers.CategoriesController.listCategories
+GET     /v1/categories/:id      controllers.CategoriesController.getCategory(id: Long)
+POST    /v1/categories          controllers.CategoriesController.createCategory
+PUT     /v1/categories/:id      controllers.CategoriesController.updateCategory(id: Long)
+DELETE  /v1/categories/:id      controllers.CategoriesController.deleteCategory(id: Long)
+# Carts
+GET     /v1/carts               controllers.CartsController.listCarts
+GET     /v1/carts/:id           controllers.CartsController.getCart(id: Long)
+POST    /v1/carts               controllers.CartsController.createCart
+PUT     /v1/carts/:id           controllers.CartsController.updateCart(id: Long)
+DELETE  /v1/carts/:id           controllers.CartsController.deleteCart(id: Long)

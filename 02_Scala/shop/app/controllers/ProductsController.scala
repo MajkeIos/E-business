@@ -8,7 +8,6 @@ import services.ProductsService
 import javax.inject.Inject
 
 class ProductsController @Inject()(cc: ControllerComponents) extends AbstractController(cc) {
-  implicit val productFormat: OFormat[Product] = Json.format[Product]
 
   def listProducts: Action[AnyContent] = Action {
     val products = ProductsService.findAll
