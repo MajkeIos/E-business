@@ -1,0 +1,7 @@
+GET     /                       controllers.HomeController.healthcheck()
+GET     /healthcheck            controllers.HomeController.healthcheck()
+GET     /v1/products            controllers.ProductsController.listProducts
+GET     /v1/products/:id        controllers.ProductsController.getProduct(id: Long)
+POST    /v1/products            controllers.ProductsController.createProduct
+PUT     /v1/products/:id        controllers.ProductsController.updateProduct(id: Long)
+DELETE  /v1/products/:id        controllers.ProductsController.deleteProduct(id: Long)
