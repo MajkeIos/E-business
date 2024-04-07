@@ -16,3 +16,19 @@ Repository for e-business lab
 Code: [01_Docker](01_Docker)
 
 Demo: [01_Docker.mkv](demos/01_Docker.mkv)
+
+### Exercise 2 - Scala
+
+✅ 3.0 [350c6d7bb51f7763d88ebcd623dda2f35f9071c6](https://github.com/MajkeIos/E-business/commit/350c6d7bb51f7763d88ebcd623dda2f35f9071c6)
+
+✅ 3.5 [350c6d7bb51f7763d88ebcd623dda2f35f9071c6](https://github.com/MajkeIos/E-business/commit/350c6d7bb51f7763d88ebcd623dda2f35f9071c6)
+
+✅ 4.0 [3ab5316c7c4cab12524102f0c7c8ce1c678783be](https://github.com/MajkeIos/E-business/commit/3ab5316c7c4cab12524102f0c7c8ce1c678783be)
+
+✅ 4.5 [d19585dea699440dd0363ce7ca977a259b779fa5](https://github.com/MajkeIos/E-business/commit/d19585dea699440dd0363ce7ca977a259b779fa5)
+
+✅ 5.0 [d19585dea699440dd0363ce7ca977a259b779fa5](https://github.com/MajkeIos/E-business/commit/d19585dea699440dd0363ce7ca977a259b779fa5)
+
+Code: [02_Scala](02_Scala)
+
+Demo: [02_Scala.mkv](demos/02_Scala.mkv)
