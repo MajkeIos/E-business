@@ -32,3 +32,19 @@ Demo: [01_Docker.mkv](demos/01_Docker.mkv)
 Code: [02_Scala](02_Scala)
 
 Demo: [02_Scala.mkv](demos/02_Scala.mkv)
+
+### Exercise 3 - Kotlin
+
+✅ 3.0 [3edf7262f089bb84442d8479d94f78a68d4c8190](https://github.com/MajkeIos/E-business/commit/3edf7262f089bb84442d8479d94f78a68d4c8190)
+
+✅ 3.5 [3edf7262f089bb84442d8479d94f78a68d4c8190](https://github.com/MajkeIos/E-business/commit/3edf7262f089bb84442d8479d94f78a68d4c8190)
+
+✅ 4.0 [3edf7262f089bb84442d8479d94f78a68d4c8190](https://github.com/MajkeIos/E-business/commit/3edf7262f089bb84442d8479d94f78a68d4c8190)
+
+✅ 4.5 [3edf7262f089bb84442d8479d94f78a68d4c8190](https://github.com/MajkeIos/E-business/commit/3edf7262f089bb84442d8479d94f78a68d4c8190)
+
+❌ 5.0 
+
+Code: [03_Kotlin](03_Kotlin)
+
+Demo: [03_Kotlin.mkv](demos/03_Kotlin.mkv)
