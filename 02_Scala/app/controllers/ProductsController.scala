@@ -9,8 +9,14 @@ import javax.inject.Inject
 
 class ProductsController @Inject()(cc: ControllerComponents) extends AbstractController(cc) {
 
-  def listProducts: Action[AnyContent] = Action {
-    val products = ProductsService.findAll
+  def listProducts(category: Option[String]): Action[AnyContent] = Action {
+    var products: Seq[Product] = null
+    category match {
+      case Some(category) =>
+        products = ProductsService.findByCategory(category)
+      case None =>
+        products = ProductsService.findAll
+    }
     Ok(Json.toJson(products))
   }
 

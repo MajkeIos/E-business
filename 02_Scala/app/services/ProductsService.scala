@@ -12,6 +12,10 @@ object ProductsService {
 
   def findById(id: Long): Option[Product] = products.find(_.id == id)
 
+  def findByCategory(category: String): Seq[Product] = {
+    products.filter(_.categories.exists(_.name == category))
+  }
+
   def create(product: Product): Unit = {
     products = products :+ product
   }
