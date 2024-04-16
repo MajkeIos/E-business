@@ -35,13 +35,13 @@ Demo: [02_Scala.mkv](demos/02_Scala.mkv)
 
 ### Exercise 3 - Kotlin
 
-✅ 3.0 [3edf7262f089bb84442d8479d94f78a68d4c8190](https://github.com/MajkeIos/E-business/commit/3edf7262f089bb84442d8479d94f78a68d4c8190)
+✅ 3.0 [edf966ca69f12865abf1d11b7ba84feb4ebd5108](https://github.com/MajkeIos/E-business/commit/edf966ca69f12865abf1d11b7ba84feb4ebd5108)
 
-✅ 3.5 [3edf7262f089bb84442d8479d94f78a68d4c8190](https://github.com/MajkeIos/E-business/commit/3edf7262f089bb84442d8479d94f78a68d4c8190)
+✅ 3.5 [edf966ca69f12865abf1d11b7ba84feb4ebd5108](https://github.com/MajkeIos/E-business/commit/edf966ca69f12865abf1d11b7ba84feb4ebd5108)
 
-✅ 4.0 [3edf7262f089bb84442d8479d94f78a68d4c8190](https://github.com/MajkeIos/E-business/commit/3edf7262f089bb84442d8479d94f78a68d4c8190)
+✅ 4.0 [edf966ca69f12865abf1d11b7ba84feb4ebd5108](https://github.com/MajkeIos/E-business/commit/edf966ca69f12865abf1d11b7ba84feb4ebd5108)
 
-✅ 4.5 [3edf7262f089bb84442d8479d94f78a68d4c8190](https://github.com/MajkeIos/E-business/commit/3edf7262f089bb84442d8479d94f78a68d4c8190)
+✅ 4.5 [edf966ca69f12865abf1d11b7ba84feb4ebd5108](https://github.com/MajkeIos/E-business/commit/edf966ca69f12865abf1d11b7ba84feb4ebd5108)
 
 ❌ 5.0 
 
