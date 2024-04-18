@@ -48,3 +48,19 @@ Demo: [02_Scala.mkv](demos/02_Scala.mkv)
 Code: [03_Kotlin](03_Kotlin)
 
 Demo: [03_Kotlin.mkv](demos/03_Kotlin.mkv)
+
+### Exercise 4 - Go
+
+✅ 3.0 [ae7f80e530ce93846de81a55568f0be2b036aa1a](https://github.com/MajkeIos/E-business/commit/ae7f80e530ce93846de81a55568f0be2b036aa1a)
+
+✅ 3.5 [ae7f80e530ce93846de81a55568f0be2b036aa1a](https://github.com/MajkeIos/E-business/commit/ae7f80e530ce93846de81a55568f0be2b036aa1a)
+
+❌ 4.0 
+
+❌ 4.5 
+
+❌ 5.0 
+
+Code: [04_Go](04_Go)
+
+Demo: [04_Go.mkv](demos/04_Go.mkv)
