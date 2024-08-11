@@ -64,3 +64,19 @@ Demo: [03_Kotlin.mkv](demos/03_Kotlin.mkv)
 Code: [04_Go](04_Go)
 
 Demo: [04_Go.mkv](demos/04_Go.mkv)
+
+### Exercise 5 - Frontend
+
+✅ 3.0 [5580188f252241142c56be700da6e53f079942cb](https://github.com/MajkeIos/E-business/commit/5580188f252241142c56be700da6e53f079942cb)
+
+✅ 3.5 [5580188f252241142c56be700da6e53f079942cb](https://github.com/MajkeIos/E-business/commit/5580188f252241142c56be700da6e53f079942cb)
+
+✅ 4.0 [5580188f252241142c56be700da6e53f079942cb](https://github.com/MajkeIos/E-business/commit/5580188f252241142c56be700da6e53f079942cb)
+
+✅ 4.5 [5580188f252241142c56be700da6e53f079942cb](https://github.com/MajkeIos/E-business/commit/5580188f252241142c56be700da6e53f079942cb)
+
+✅ 5.0 [5580188f252241142c56be700da6e53f079942cb](https://github.com/MajkeIos/E-business/commit/5580188f252241142c56be700da6e53f079942cb)
+
+Code: [05_Frontend](05_Frontend)
+
+Demo: [05_Frontend.mkv](demos/05_Frontend.mkv)
