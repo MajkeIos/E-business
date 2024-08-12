@@ -96,3 +96,19 @@ Demo: [05_Frontend.mkv](demos/05_Frontend.mkv)
 Code: [06_Tests](06_Tests)
 
 Demo: [06_Tests.mkv](demos/06_Tests.mkv)
+
+### Exercise 7 - Sonar
+
+✅ 3.0 [754055c9c5e4b8837955739fb52faba0db66341c](https://github.com/MajkeIos/E-business/commit/754055c9c5e4b8837955739fb52faba0db66341c)
+
+✅ 3.5 [754055c9c5e4b8837955739fb52faba0db66341c](https://github.com/MajkeIos/E-business/commit/754055c9c5e4b8837955739fb52faba0db66341c)
+
+✅ 4.0 [754055c9c5e4b8837955739fb52faba0db66341c](https://github.com/MajkeIos/E-business/commit/754055c9c5e4b8837955739fb52faba0db66341c)
+
+✅ 4.5 [754055c9c5e4b8837955739fb52faba0db66341c](https://github.com/MajkeIos/E-business/commit/754055c9c5e4b8837955739fb52faba0db66341c)
+
+❌ 5.0
+
+Code: [07_Sonar](07_Sonar)
+
+Demo: Not feasible
