@@ -112,3 +112,19 @@ Demo: [06_Tests.mkv](demos/06_Tests.mkv)
 Code: [07_Sonar](07_Sonar)
 
 Demo: Not feasible
+
+### Exercise 8 - OAuth2
+
+✅ 3.0 [da4d661dfbe1d16be580bbd3130cdb2816c4db8f](https://github.com/MajkeIos/E-business/commit/da4d661dfbe1d16be580bbd3130cdb2816c4db8f)
+
+✅ 3.5 [da4d661dfbe1d16be580bbd3130cdb2816c4db8f](https://github.com/MajkeIos/E-business/commit/da4d661dfbe1d16be580bbd3130cdb2816c4db8f)
+
+❌ 4.0
+
+❌ 4.5
+
+❌ 5.0
+
+Code: [08_OAuth2](08_OAuth2)
+
+Demo: [08_OAuth2.mkv](demos/08_OAuth2.mkv)
