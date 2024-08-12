@@ -1,0 +1,5 @@
+# SonarQube/SonarCloud
+.sonar
+.sonarqube/
+sonar-report.json
+.scannerwork/
