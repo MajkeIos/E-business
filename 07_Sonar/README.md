@@ -1,6 +1,6 @@
 # Sonar
 
-Files necessary to complete sixth exercise for e-business lab.
+Files necessary to complete seventh exercise for e-business lab.
 
 ### Requirements
 - Maven 3.x
