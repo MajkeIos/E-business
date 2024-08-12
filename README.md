@@ -80,3 +80,19 @@ Demo: [04_Go.mkv](demos/04_Go.mkv)
 Code: [05_Frontend](05_Frontend)
 
 Demo: [05_Frontend.mkv](demos/05_Frontend.mkv)
+
+### Exercise 6 - Tests
+
+✅ 3.0 [c5cb14a4281b14e5ae46f5c2e28d0bab5158f514](https://github.com/MajkeIos/E-business/commit/c5cb14a4281b14e5ae46f5c2e28d0bab5158f514)
+
+✅ 3.5 [c5cb14a4281b14e5ae46f5c2e28d0bab5158f514](https://github.com/MajkeIos/E-business/commit/c5cb14a4281b14e5ae46f5c2e28d0bab5158f514)
+
+❌ 4.0
+
+❌ 4.5
+
+❌ 5.0
+
+Code: [06_Tests](06_Tests)
+
+Demo: [06_Tests.mkv](demos/06_Tests.mkv)
