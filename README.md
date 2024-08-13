@@ -128,3 +128,19 @@ Demo: Not feasible
 Code: [08_OAuth2](08_OAuth2)
 
 Demo: [08_OAuth2.mkv](demos/08_OAuth2.mkv)
+
+### Exercise 9 - ChatGPT bot
+
+✅ 3.0 [13b3419a29946c2f6c8a3ca265871f145db0f5ee](https://github.com/MajkeIos/E-business/commit/13b3419a29946c2f6c8a3ca265871f145db0f5ee)
+
+✅ 3.5 [13b3419a29946c2f6c8a3ca265871f145db0f5ee](https://github.com/MajkeIos/E-business/commit/13b3419a29946c2f6c8a3ca265871f145db0f5ee)
+
+❌ 4.0
+
+❌ 4.5
+
+❌ 5.0
+
+Code: [09_ChatGPTBot](09_ChatGPTBot)
+
+Demo: [09_ChatGPTBot.mkv](demos/09_ChatGPTBot.mkv)
