@@ -144,3 +144,19 @@ Demo: [08_OAuth2.mkv](demos/08_OAuth2.mkv)
 Code: [09_ChatGPTBot](09_ChatGPTBot)
 
 Demo: [09_ChatGPTBot.mkv](demos/09_ChatGPTBot.mkv)
+
+### Exercise 10 - Cloud/CI
+
+✅ 3.0 [5ed5815b5aa288d8fb04091c19ea020fc2b883b4](https://github.com/MajkeIos/E-business/commit/5ed5815b5aa288d8fb04091c19ea020fc2b883b4)
+
+✅ 3.5 [5ed5815b5aa288d8fb04091c19ea020fc2b883b4](https://github.com/MajkeIos/E-business/commit/5ed5815b5aa288d8fb04091c19ea020fc2b883b4)
+
+❌ 4.0
+
+❌ 4.5
+
+❌ 5.0
+
+Code: [10_CloudCI](10_CloudCI)
+
+Demo: [10_CloudCI.mkv](demos/10_CloudCI.mkv)
